@@ -1,4 +1,4 @@
 streamlit
 crewai
 langchain-openai
-pydantic==1.10.14
+pydantic<2.0
